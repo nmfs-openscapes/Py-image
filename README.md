@@ -1,9 +1,10 @@
 # corn 🌽
  
-Jupyterhub base image for the [NASA Openscapes Hub](https://nasa-openscapes.github.io/2021-Cloud-Hackathon/)
+Jupyterhub base image for the [NMFS Openscapes Hub](https://nmfs-openscapes.github.io/2023-Cloud-Hackathon/)
 
-![](https://img.shields.io/docker/image-size/openscapes/corn?sort=date)
-<a href="https://hub.docker.com/repository/docker/openscapes/corn/tags?page=1&ordering=last_updated"><img src="https://img.shields.io/docker/v/openscapes/corn"></a>
+![](https://img.shields.io/docker/image-size/openscapes/python?sort=date)
+<a href="https://hub.docker.com/repository/docker/openscapes/python/tags?page=1&ordering=last_updated"><img src="https://img.shields.io/docker/v/openscapes/python"></a> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nmfs-openscapes/corn/HEAD)
+
 
 ## Overview
 
